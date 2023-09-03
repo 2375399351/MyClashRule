@@ -2,7 +2,8 @@
 
 # MyList
 DOMAIN-SUFFIX,fast.lycorisrecoil.org
-
+DOMAIN-SUFFIX,kp.m-team.cc
+DOMAIN-SUFFIX,xp.m-team.cc
 
 # 中国国内常见域名关键词直连
 #DOMAIN-KEYWORD,m-team
